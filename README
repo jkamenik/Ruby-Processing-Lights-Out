@@ -1,0 +1,3 @@
+This was a an example program I used to teach myself the Ruby Processing Library.  To use you will need to install ruby-processing.
+
+sudo gem install ruby-processing
